@@ -9,7 +9,7 @@
 </p>
 
 ---
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="230" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 - 🌱 I am currently studying **Web Development** 
 
